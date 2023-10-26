@@ -1,10 +1,10 @@
 package core
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/pro/pkg/cachex"
-	"github.com/ArtisanCloud/PowerWeChat/pro/weconfig"
 	"github.com/artisancloud/httphelper"
 	"github.com/artisancloud/httphelper/client"
+	"github.com/northseadl/PowerWeChat/pro/pkg/cachex"
+	"github.com/northseadl/PowerWeChat/pro/weconfig"
 )
 
 const endpoint = "https://api.weixin.qq.com/cgi-bin"

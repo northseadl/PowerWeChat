@@ -3,8 +3,8 @@ package msgmanage
 import (
 	"context"
 
-	"github.com/ArtisanCloud/PowerWeChat/pro/offiaccount/core"
-	"github.com/ArtisanCloud/PowerWeChat/pro/offiaccount/types"
+	"github.com/northseadl/PowerWeChat/pro/offiaccount/core"
+	"github.com/northseadl/PowerWeChat/pro/offiaccount/types"
 )
 
 const (

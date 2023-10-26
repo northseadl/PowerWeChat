@@ -3,9 +3,9 @@ package offiaccount
 import (
 	"fmt"
 
-	"github.com/ArtisanCloud/PowerWeChat/pro/offiaccount/core"
-	"github.com/ArtisanCloud/PowerWeChat/pro/pkg/cachex"
-	"github.com/ArtisanCloud/PowerWeChat/pro/weconfig"
+	"github.com/northseadl/PowerWeChat/pro/offiaccount/core"
+	"github.com/northseadl/PowerWeChat/pro/pkg/cachex"
+	"github.com/northseadl/PowerWeChat/pro/weconfig"
 )
 
 type API struct {

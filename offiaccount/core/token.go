@@ -5,9 +5,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ArtisanCloud/PowerWeChat/pro/offiaccount/types"
-	"github.com/ArtisanCloud/PowerWeChat/pro/pkg/cachex"
 	"github.com/artisancloud/httphelper"
+	"github.com/northseadl/PowerWeChat/pro/offiaccount/types"
+	"github.com/northseadl/PowerWeChat/pro/pkg/cachex"
 )
 
 const (
